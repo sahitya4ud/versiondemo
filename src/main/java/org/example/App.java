@@ -10,5 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("bug fixed");
+        System.out.println("changes in developer 1");
+        System.out.println("advanced learning");
+        System.out.println("job done");
     }
 }
